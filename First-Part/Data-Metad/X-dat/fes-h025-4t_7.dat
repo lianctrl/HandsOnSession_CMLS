@@ -1,8 +1,4 @@
 #! FIELDS cv.x file.free der_cv.x
-#! SET min_cv.x -1.96252
-#! SET max_cv.x 1.34077
-#! SET nbins_cv.x  95
-#! SET periodic_cv.x false
    -1.962520000   -0.000078619   -0.003289082
    -1.927378617   -0.000835406   -0.033160599
    -1.892237234   -0.003719182   -0.137015753
