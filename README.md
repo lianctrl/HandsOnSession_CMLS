@@ -5,7 +5,7 @@ The tutorial is made of two parts
 
 1.    Play on a model 2D potential with 3 minima and a saddle point
 2.    Play with an actual molecule: Alanine dipeptide
-
+3.    Play with a simple 1D potential and a simple Markov State Model
 
 Thanks to Prof. B. Ensing and its group for which I was inspired using the Muller Brown potential to play around.  
 Thanks to the PLUMED Consortium to which I taken part of the idea about the Alanine dipeptide exercise.  
