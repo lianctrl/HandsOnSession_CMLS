@@ -1,4 +1,4 @@
-# Hands On Session 27-01-23
+# Hands On Session for the course of Computational Material and Life Sciences 
 In this tutorial you can find a python notebook and folder containg data to be read during the exercises.  
 You need to copy the url of the python notebook into a Google Colab page to let it open and play around.  
 The tutorial is made of two parts  
